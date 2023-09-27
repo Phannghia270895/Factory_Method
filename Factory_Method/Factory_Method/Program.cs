@@ -96,20 +96,20 @@
 
 // Testing the Factory Design Pattern
 
-//using Factory_Method;
+using Factory_Method;
 
-//INotificationSender notificationSender;
+INotificationSender notificationSender;
 
-//notificationSender = NotificationFactory.CreateNotificationSender("email");
-//notificationSender.SendNotification("This is an email notification!");
+notificationSender = NotificationFactory.CreateNotificationSender("email");
+notificationSender.SendNotification("This is an email notification!");
 
-//notificationSender = NotificationFactory.CreateNotificationSender("sms");
-//notificationSender.SendNotification("This is an SMS notification!");
+notificationSender = NotificationFactory.CreateNotificationSender("sms");
+notificationSender.SendNotification("This is an SMS notification!");
 
-//notificationSender = NotificationFactory.CreateNotificationSender("push");
-//notificationSender.SendNotification("This is a push notification!");
+notificationSender = NotificationFactory.CreateNotificationSender("push");
+notificationSender.SendNotification("This is a push notification!");
 
-//// As with other factory examples, adding new notification methods 
-//// would only require extending the factory, without altering the client code.
+// As with other factory examples, adding new notification methods 
+// would only require extending the factory, without altering the client code.
 
-//Console.ReadKey();
+Console.ReadKey();
