@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Factory_Method
 {
-    internal interface IPaymentGateway
+    public interface IPaymentGateway
     {
         void ProcessPayment(decimal amount);
-        string TargetExtension { get; }
+      //  string TargetExtension { get; }
     }
     public class PayPalGateway : IPaymentGateway
     {
