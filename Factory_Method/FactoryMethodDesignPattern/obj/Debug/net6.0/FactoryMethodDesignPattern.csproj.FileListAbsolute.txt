@@ -1,0 +1,15 @@
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.exe
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.deps.json
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.runtimeconfig.json
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.dll
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\bin\Debug\net6.0\FactoryMethodDesignPattern.pdb
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.csproj.AssemblyReference.cache
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.AssemblyInfoInputs.cache
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.AssemblyInfo.cs
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.csproj.CoreCompileInputs.cache
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.dll
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\refint\FactoryMethodDesignPattern.dll
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.pdb
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\FactoryMethodDesignPattern.genruntimeconfig.cache
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\FactoryMethodDesignPattern\obj\Debug\net6.0\ref\FactoryMethodDesignPattern.dll

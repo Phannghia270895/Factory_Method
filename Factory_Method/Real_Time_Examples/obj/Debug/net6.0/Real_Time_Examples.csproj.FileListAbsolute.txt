@@ -1,0 +1,15 @@
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\bin\Debug\net6.0\Real_Time_Examples.exe
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\bin\Debug\net6.0\Real_Time_Examples.deps.json
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\bin\Debug\net6.0\Real_Time_Examples.runtimeconfig.json
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\bin\Debug\net6.0\Real_Time_Examples.dll
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\bin\Debug\net6.0\Real_Time_Examples.pdb
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\Real_Time_Examples.csproj.AssemblyReference.cache
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\Real_Time_Examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\Real_Time_Examples.AssemblyInfoInputs.cache
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\Real_Time_Examples.AssemblyInfo.cs
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\Real_Time_Examples.csproj.CoreCompileInputs.cache
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\Real_Time_Examples.dll
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\refint\Real_Time_Examples.dll
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\Real_Time_Examples.pdb
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\Real_Time_Examples.genruntimeconfig.cache
+D:\Project\design+pattern\Factory_Method_git\Factory_Method\Real_Time_Examples\obj\Debug\net6.0\ref\Real_Time_Examples.dll
