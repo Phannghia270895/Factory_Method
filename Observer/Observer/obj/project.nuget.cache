@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0F4EmT9ECBSEaZx2wG+Zt+R2fzU9pOj7niz1OH3DmxnLj+YsfEq7g8X7VfOTzNY2YZZpQteLGkM/nNAca397Wg==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\design+pattern\\Observer\\Observer\\Observer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phann\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\phann\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\phann\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\phann\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
